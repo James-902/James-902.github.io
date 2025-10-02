@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 ## Education 
-- ** BSc (Electrical & Electronic Engineering) **, Kenyatta University - * Second Class Upper *
-- ** Cert (Data & AI) **, Cyber Shujaa - * Pass *
+- **BSc (Electrical & Electronic Engineering)**, Kenyatta University - *Second Class Upper*
+- **Cert (Data & AI)**, Cyber Shujaa - *Pass*
   
 ----
