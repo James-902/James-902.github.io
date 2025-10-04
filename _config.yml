@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "James Otieno"
-  avatar : "/assets/images/passport.jpg"
+  avatar : "assets/images/passport .jpg"
   bio    : "Tech enthusiast, Electrical Engineer and data specialist."
   links:
     - label: "Website"
