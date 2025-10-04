@@ -1,7 +1,7 @@
 ---
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-author_profile: false 
+author_profile: true 
 ---
 
 #  Curriculum Vitae - James Otieno
