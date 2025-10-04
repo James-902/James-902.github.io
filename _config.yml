@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "James Otieno"
-  avatar : "assets/images/passport .jpg"
+  avatar : "/assets/images/passport .jpg"
   bio    : "Tech enthusiast, Electrical Engineer and data specialist."
   links:
     - label: "Website"
@@ -82,8 +82,8 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/jamesc-otieno"
 
 defaults:
   # _posts
