@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "James Otieno"
+  name   : "James C. Otieno"
   avatar : "/assets/images/passport.jpg"
   bio    : "Tech enthusiast, Electrical Engineer and data specialist."
   links:
