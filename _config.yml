@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "James C. Otieno"
   avatar : "assets/images/passport .jpg"
-  bio    : "Electrical Engineer, data specialist and Tech enthusiast,."
+  bio    : "Electrical Engineer, data specialist and Tech enthusiast "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
