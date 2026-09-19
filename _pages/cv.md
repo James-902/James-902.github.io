@@ -11,54 +11,62 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Sc. in Electrical & Electronics Engineering
+  *  Kenyatta University (2019-2024)
+  *  Second Class Honours (Upper division)
+* Cert in Data Science & AI
+  * Cyber Shujaa (2025)
+  * Pass
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Samil Engineering Service Ltd (March, 2026 - todate)
+  * Electrical Engineer
+  * Duties includes:
+    --------------------
+    Designing, installing, testing, commissioning and maintaining electrical and solar PV systems.
+    Conducting electrical inspections, troubleshooting, fault diagnosis, and preventive maintenance.
+    Preparing technical documentation, drawings, equipment specifications, bills of quantities, and project reports.
+    Participating in energy audits and recommending measures to improve energy efficiency and reduce operating costs.
+    Supporting the installation and commissioning of grid-tied and hybrid solar PV systems.
+    Performing site surveys, electrical measurements, system assessments, and technical reporting.
+    
+* SMEP MFB PLC (Feb 2024 - Feb 2025)
+  * Business Development Officer
+  * Duties included:
+    --------------------
+    Identifying, acquiring and onboarding new customers while developing and maintaining strong client relationships.
+    Marketing and promoting financial products and services to individuals, SMEs, churches, groups and other target customers.
+    Conducting customer needs assessments and recommending suitable loan and financial solutions.
+    Guiding customers through the loan application process, including account opening, documentation, appraisal and submission.
+    Maintaining accurate customer records and ensuring compliance with institutional policies, procedures and regulatory requirements.
+    Supporting loan portfolio quality by monitoring customer repayment performance and following up on outstanding obligations.
+    
+Skills & Eepertise
+======
+* Electrical Enginnering
+   --------------------
+  AutoCAD Electrcal| ETAP| MATLAB| SCADA
+* Solar PV
+  --------------------
+  PVsyst| SketchUp| Homer| Excel| Helioscope
+* Data Analysis
+  --------------------
+  Power BI| Tableau| IBM SPSS Statistics| Google Colab
+* Programming & Technologies 
+  --------------------
+  Python| SQL| C++| Git & GitHub| Arduino
+* Business Development & Financial Services
+  --------------------
+  SME Relationship Management| Credit Appraisal| Business Analysis| Loan Portfolio Management| Sales & Markrting 
+* Proffesional & Technical Skills 
+  --------------------
+  Technical report writing| Project Coordination| Team Leadership| Communication & Presentation| Troubleshooting| Community engagement|     Media & Production| Reseach & Problem solving| Event & Program coordination
   
-Skills
+Volunteering 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* ENACTUS KU CHAPTER (President & Project Manager)
+* KU HULT PRIZE (Vice Campus Director & Logistics Incharge)
+* HULT PRIZE On-Campus Awards and Regional Competitions (Tech & production Team)
+* KU Christian Union (Interim Worship and Media Incharge)
+* GDSC Tech and Production lead
