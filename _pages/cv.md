@@ -21,7 +21,8 @@ Education
 Work experience
 ======
 * Samil Engineering Service Ltd (March, 2026 - todate)
-  * Electrical Engineer
+======
+* Electrical Engineer
   * Duties includes:
     --------------------
     * Designing, installing, testing, commissioning and maintaining electrical and solar PV systems.
@@ -32,7 +33,8 @@ Work experience
     * Performing site surveys, electrical measurements, system assessments, and technical reporting.
     
 * SMEP MFB PLC (Feb 2024 - Feb 2025)
-  * Business Development Officer
+======
+* Business Development Officer
   * Duties included:
     --------------------
     * Identifying, acquiring and onboarding new customers while developing and maintaining strong client relationships.
