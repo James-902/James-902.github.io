@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "James Collins Otieno"
 title_separator          : "-"
 name                     : &name "James"
@@ -23,10 +23,10 @@ repository               : "James-902.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :  images/passport .jpg
+  avatar           : "images/passport .jpg"
   name             : "James C. Otieno"
   pronouns         : # example: "she/her"  
-  bio              : "Electrical & Renewable Engineer| Data specialist| Tech Enthusisast "
+  bio              : "Electrical & Renewable Engineer| Data specialist| Tech Enthusiast "
   location         : "Nairobi, Kenya"
   employer         : "Samil Engineering Service Ltd"
   uri              : # URL
