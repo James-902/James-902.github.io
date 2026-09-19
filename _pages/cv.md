@@ -44,7 +44,7 @@ Work experience
     
 Skills & Eepertise
 ======
-* Electrical Enginnering
+* Electrical Engineering
    --------------------
   AutoCAD Electrcal| ETAP| MATLAB| SCADA
 * Solar PV
