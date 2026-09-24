@@ -23,7 +23,7 @@ repository               : "James-902.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/jamespic.png"
+  avatar           : "jamespic.png"
   name             : "James C. Otieno"
   pronouns         : # example: "she/her"  
   bio              : "Electrical & Renewable Engineer| Data specialist| Tech Enthusiast "
